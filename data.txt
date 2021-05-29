@@ -1,5 +1,6 @@
 crema
-café
+cafe
+Extraña
 estrella
 explosión
 guitarra
