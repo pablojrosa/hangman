@@ -2,7 +2,7 @@ import os
 os.system('clear')
 
 def open_data():
-    with open('./curso-intermedio-python-clase-juego-del-ahorcado/archivos/data.txt', mode = 'r', encoding= 'UTF-8') as a:
+    with open('data.txt', mode = 'r', encoding= 'UTF-8') as a:
         words = [l.replace('\n', '') for l in a]
     return words
 
